@@ -8,9 +8,12 @@
 ## ☀ The protocol
 
 * [🪙 The XX token](the-protocol/the-xx-token.md)
-* [📱 Socials](the-protocol/socials.md)
+* [🚜 Farming](the-protocol/farming.md)
+* [🔐 Vaults](the-protocol/vaults.md)
 * [📜 Contracts](the-protocol/contracts.md)
 
-***
+## ❓ Help
 
+* [🦊 Metamask & MTV](help/metamask-and-mtv.md)
+* [📱 Socials](help/socials.md)
 * [Discord](https://discord.gg/UvV6bER3gz)
