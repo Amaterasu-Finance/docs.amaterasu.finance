@@ -7,7 +7,7 @@
 
 ## The protocol
 
-* [🪙 The XX token](the-protocol/the-xx-token.md)
+* [🪙 The FLARE token](the-protocol/the-flare-token.md)
 * [🚜 Farming](the-protocol/farming.md)
 * [🔐 Vaults](the-protocol/vaults.md)
 * [📜 Contracts](the-protocol/contracts.md)
@@ -16,5 +16,6 @@
 
 * [🦊 Metamask & MTV](help/metamask-and-mtv.md)
 * [📱 Socials](the-protocol/socials.md)
+* [🌉 Bridge](help/bridge.md)
 * [❓ FAQ](help/faq.md)
 * [Discord](https://discord.gg/UvV6bER3gz)
