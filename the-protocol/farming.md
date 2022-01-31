@@ -2,9 +2,9 @@
 
 ### Farming pairs:
 
-* FLARE/MTV
+* IZA/MTV
 * MTV/BUSD
-* FLARE/BUSD
+* IZA/BUSD
 
 ### Farm fees:
 
