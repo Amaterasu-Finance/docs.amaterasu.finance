@@ -1,8 +1,6 @@
 # 🪙 The IZANAGI token
 
-The governance token of Amaterasu Finance will be the FLARE token.
-
-
+The governance token of Amaterasu Finance will be the IZANAGI (ticker: $IZA) token.
 
 Necessary information regarding the token:
 
