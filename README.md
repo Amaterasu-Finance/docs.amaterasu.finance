@@ -8,6 +8,6 @@ The goal of the protocol is to be the leading DEX on MTV and attain a high TVL. 
 * Bonds
 * Borrowing & Lending
 
-The concept of Amaterasu Finance comes from Japanese lore. Amaterasu is the goddess of the sun in Japanese mythology and Izanagi is also a Japanese deity. Most of the Amaterasu Finance ecosystem branding takes inspiration from Japanese lore/history.
+The concept of Amaterasu Finance comes from Japanese lore. Amaterasu is the goddess of the sun in Japanese mythology and Izanagi is also one of the most important Japanese deities. Most of the Amaterasu Finance ecosystem branding takes inspiration from Japanese lore/history.
 
 ![](<.gitbook/assets/Amaterasu\_Main\_Logo-Transparent BG+Black Outline.png>)

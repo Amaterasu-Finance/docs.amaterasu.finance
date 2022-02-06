@@ -9,6 +9,7 @@
 ## The protocol
 
 * [🪙 The IZANAGI token](the-protocol/the-izanagi-token.md)
+* [🪙 The xIZANAGI token](the-protocol/the-xizanagi-token.md)
 * [🚜 Farming](the-protocol/farming.md)
 * [🔐 Vaults](the-protocol/vaults.md)
 * [📜 Contracts](the-protocol/contracts.md)
