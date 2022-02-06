@@ -18,4 +18,4 @@ The xIZA vault deposits the IZA into the yield farm to earn addtional IZA for xI
 
 xIZA holders will be able to participate in governance voting too in the future.
 
-![xIZANAGI token](<../.gitbook/assets/Izanagi red - transparent.png>)
+![](<../.gitbook/assets/Izanagi purple - transparent.png>)

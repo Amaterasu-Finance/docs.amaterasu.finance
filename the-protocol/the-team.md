@@ -10,6 +10,6 @@ The team behind Amaterasu Finance consists of a diversified group of people:
 * Flu - Marketing, [DeFi Kingdoms](https://defikingdoms.com) Marketing, [Granary Finance](https://discord.gg/EDgNsdMrDv) founder (Harmony blockchain)
 * Pyth - Marketing, [DeFi Kingdoms](https://defikingdoms.com) Marketing, [Granary Finance](https://discord.gg/EDgNsdMrDv) founder (Harmony blockchain)
 * Kurt Hokage - [Tranquil Finance](https://www.tranquil.finance) team (Harmony blockchain)
-* MightyM - [Tranquil Finance](https://www.tranquil.finance) & Defir Community Manager (Harmony blockchain), Defimon business advisor (Harmony blockchain)
+* MightyM - [Tranquil Finance](https://www.tranquil.finance) & Defira CM / Team manager (Harmony blockchain), Ragnarök CM / Marketing (TBD), Defimons Business advisor (Harmony blockchain)
 * Gram - [ShitPunks](https://www.shitpunks.com/home) founder (BSC)
 * Justinmahone - [Magnet DAO](https://app.magnetdao.finance/#/dashboard) marketing (AVAX)

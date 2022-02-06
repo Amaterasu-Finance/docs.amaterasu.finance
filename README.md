@@ -2,7 +2,7 @@
 
 Amaterasu Finance is a native DEX on the MTV chain. The governance token of the protocol is IZANAGI (ticker: $IZA)
 
-The goal of the protocol is to be the leading DEX on MTV and attain a high TVL. The DEX will be the starting point but the team wants to expand the protocol. A few developments being considered are:
+Our goal is to be the leading DEX on MTV and attain a high TVL, ultimately growing the MTV ecosystem as a whole. The DEX will be the starting point but the team wants to expand the protocol. A few developments being considered are:
 
 * Vaults
 * Bonds
