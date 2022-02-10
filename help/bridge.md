@@ -4,6 +4,8 @@ You can bridge assets from MTV and to MTV using the [MTV bridge](https://e.mtv.a
 
 The following chains are currently supported:
 
+A video guide can be found [here](https://www.youtube.com/watch?v=qub\_-iRKrCk) for the bridge.
+
 * ETH
 * BSC
 
