@@ -11,4 +11,3 @@ The team behind Amaterasu Finance consists of a diversified group of people:
 * Kurt Hokage - [Tranquil Finance](https://www.tranquil.finance) team (Harmony blockchain)
 * MightyM - [Tranquil Finance](https://www.tranquil.finance) & Defira CM / Team manager (Harmony blockchain), Ragnarök CM / Marketing (TBD), Defimons Business advisor (Harmony blockchain)
 * Gram - [ShitPunks](https://www.shitpunks.com/home) founder (BSC)
-* Justinmahone - [Magnet DAO](https://app.magnetdao.finance/#/dashboard) marketing (AVAX)
