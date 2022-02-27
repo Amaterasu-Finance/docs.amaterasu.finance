@@ -1,6 +1,6 @@
 # 🚀 Launch
 
-For the launch of the $IZA token, we minted some IZA tokens and paired them with liquidity from the team's pockets . This liquidity will be multisigged as soon as multisig is available for MTV.
+For the launch of the $IZA token, we will mint some IZA tokens and we will pair them with liquidity from the team's pockets . This liquidity will be multisigged as soon as multisig is available for MTV.
 
 The initial price of $IZA will be announced as we get closer to launch.
 
