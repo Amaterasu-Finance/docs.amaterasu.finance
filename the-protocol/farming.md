@@ -6,6 +6,10 @@
 * MTV/BUSD
 * IZA/BUSD
 
+{% hint style="info" %}
+The idea is to grow the TVL of MTV by onboarding people from other chains so we will add pools to aid that, such as Harmony (ticker: $ONE).
+{% endhint %}
+
 ### Farm fees:
 
 0% Withdrawal fees
