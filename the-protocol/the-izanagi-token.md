@@ -19,12 +19,6 @@ You can track the IZA token in the following places:
 
 * TBA
 
-### Fees & allocations for the team
-
-10% of the collected rewards are sent to the treasury address.
-
-The accrued fees will be used for marketing, further develpment and partnerships.
-
 ### Tokenomics
 
 * The IZANAGI token has an uncapped supply in order to allow for future expansion of the protocol
@@ -66,3 +60,14 @@ The schedule below is just an indication and even though we want to adhere to it
 |   19   |   0.023   |
 |   20   |   0.023   |
 
+### Team & marketing allocation
+
+On top of the normal emissions of IZA, 15% will be added on top of which 10% is allocated to the team and 5% to marketing, mods and partnerships
+
+#### A simple example would look something like this:
+
+In the first week the emissions are 0.05 IZA/block. 15% on top would be 0.0075 IZA/block extra. 0.005 IZA/block would be distributed to the team members (proportionate to their stakes in the project) and 0.0025 IZA/block would go to a wallet that will hold the funds for marketing, mods and partnerships.
+
+{% hint style="info" %}
+The teams' wallets will be made public and we will monitor each other to prevent dumping the token. We have no incentives to drop the price by selling excessively, we want to maintain the IZA token healthy and strong. We will have internal rules in place regarding price impacts of our sells.
+{% endhint %}
