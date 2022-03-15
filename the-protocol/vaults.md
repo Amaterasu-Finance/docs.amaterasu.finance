@@ -1,6 +1,6 @@
 # 🔐 Vaults
 
-Amaterasu Finance will offer the first auto-compounding vaults on the MTV blockchain.
+Amaterasu Finance will offer the first auto-compounding vaults on the Aurora blockchain.
 
 The vaults are modelled after Polycat and they are also fully functional on [FarmersOnly](https://app.farmersonly.fi/vaults) (on Harmony blockchain)
 
@@ -17,7 +17,7 @@ To maximize your gains, you need to be compounding all the rewards you get from 
 
 #### 2) Auto-compounding vaults
 
-The vaults on Amaterasu are auto-compounding. And due to low transaction fees on MTV, the protocol can do this quite often for you therefore, maximizing your gains!
+The vaults on Amaterasu are auto-compounding. And due to low transaction fees on Aurora, the protocol can do this quite often for you therefore, maximizing your gains!
 
 This is an example of what compounding manually would look like on Sushiswap on the Harmony blockchain for 1ETH/1USDC:
 
@@ -39,4 +39,3 @@ In some countries (like the US), every transaction is considered a taxable event
 ### Vault fees:
 
 **TBA**
-

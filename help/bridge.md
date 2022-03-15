@@ -1,17 +1,28 @@
 # 🌉 Bridge
 
-You can bridge assets from MTV and to MTV using the [MTV bridge](https://e.mtv.ac/bridge.html)
+Aurora is supported by most major bridges and that creates fantastic cross-chain availability.
 
-The following chains are currently supported:
+Before bridging, you need to add Aurora mainnet to your Metamask wallet. Check out the instructions in this section of our docs:
 
-A video guide can be found [here](https://www.youtube.com/watch?v=qub\_-iRKrCk) for the bridge.
+{% content-ref url="metamask-and-aurora.md" %}
+[metamask-and-aurora.md](metamask-and-aurora.md)
+{% endcontent-ref %}
 
-* ETH
-* BSC
+After getting the mainnet setup on your Metamask, you can start bridging
 
-[Relaychain](https://app.relaychain.com/#/cross-chain-bridge-transfer) also has a functional MTV bridge now. As of writing this page, these are the currently bridgeable assets:
+1. You can get ETH for GAS on Aurora by going to the Aurora faucet [here.](https://aurora.dev/faucet)&#x20;
 
-![](<../.gitbook/assets/image (2).png>)
+{% hint style="info" %}
+You just need to have 0.05 ETH on your Metamask wallet on the Ethereum mainnet to get funds from the faucet.
+{% endhint %}
+
+&#x20; 2\. You can bridge over to the Aurora mainnet from most major chains.&#x20;
+
+* Bridging from Harmony, Binance Smart Chain, Fantom, Avalanche or Polgyon can be done through [Synapse](https://synapseprotocol.com)
+* Bridging from Ethereum or NEAR can be done through [Rainbowbridge](https://rainbowbridge.app/transfer)
+* Bridging from Solana or Terra can be done through [Allbridge](https://app.allbridge.io)
+
+That's it, you're done! You can now do transactions on the Aurora mainnet just like any other EVM chain.
 
 {% hint style="danger" %}
 Make sure to always send a test transaction before sending the whole amount through the bridge.

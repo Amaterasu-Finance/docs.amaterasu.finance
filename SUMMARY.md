@@ -14,11 +14,13 @@
 * [🔐 Vaults](the-protocol/vaults.md)
 * [📜 Contracts](the-protocol/contracts.md)
 * [🤝 The team](the-protocol/the-team.md)
+* [🏛 Protocol history](the-protocol/protocol-history.md)
 
 ## Help
 
-* [🦊 Metamask & MTV](help/metamask-and-mtv.md)
-* [📱 Socials](the-protocol/socials.md)
+* [🦊 Metamask & Aurora](help/metamask-and-aurora.md)
+* [💵 Aurora from a CEX](help/aurora-from-a-cex.md)
 * [🌉 Bridge](help/bridge.md)
+* [📱 Socials](the-protocol/socials.md)
 * [❓ FAQ](help/faq.md)
 * [Discord](https://discord.gg/UvV6bER3gz)

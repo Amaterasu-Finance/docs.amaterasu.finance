@@ -27,7 +27,7 @@ You can track the IZA token in the following places:
 
 ### Emissions
 
-The emissions for IZA will be higher at launch and they will decrease as time goes on. The reasoning behind this is to attract new investors into the MTV ecosystem and build a strong community.
+The emissions for IZA will be higher at launch and they will decrease as time goes on. The reasoning behind this is to attract new investors into the Aurora ecosystem and build a strong community.
 
 {% hint style="success" %}
 Please note that we will potentially increase emissions at certain points in time for special events. A typical example would be: for the 1 year aniversary of Amaterasu emissions will be temporairly increased to 0.05 again.
