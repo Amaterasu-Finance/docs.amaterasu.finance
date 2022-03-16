@@ -8,7 +8,7 @@ Necessary information regarding the token:
 | ---------------- | ---------------------------------------------------- |
 | Ticker           | IZA                                                  |
 | Contract address | TBA                                                  |
-| Blockchain       | MTV (MultiVAC)                                       |
+| Blockchain       | Aurora                                               |
 | Emission rate    | 0.05 IZA/block at launch (with adjustable emissions) |
 
 ![IZANAGI token](<../.gitbook/assets/Izanagi light blue - transparent (2).png>)
