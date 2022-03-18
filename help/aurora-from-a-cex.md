@@ -1,2 +1,0 @@
-# 💵 Aurora from a CEX
-

@@ -19,7 +19,6 @@
 ## Help
 
 * [🦊 Metamask & Aurora](help/metamask-and-aurora.md)
-* [💵 Aurora from a CEX](help/aurora-from-a-cex.md)
 * [🌉 Bridge](help/bridge.md)
 * [📱 Socials](the-protocol/socials.md)
 * [❓ FAQ](help/faq.md)
