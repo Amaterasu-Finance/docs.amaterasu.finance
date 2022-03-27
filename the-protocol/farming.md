@@ -2,10 +2,11 @@
 
 ### Farming pairs:
 
+* xIZA
+* IZA/USDC
 * IZA/aETH
+* IZA/NEAR
 * IZA/AURORA
-* IZA/UST
-* ETH/ONE
 * IZA/ONE
 
 {% hint style="info" %}
