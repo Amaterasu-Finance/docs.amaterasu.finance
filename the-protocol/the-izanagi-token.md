@@ -4,12 +4,12 @@ The governance token of Amaterasu Finance will be the IZANAGI (ticker: $IZA) tok
 
 Necessary information regarding the token:
 
-|                  |                                                      |
-| ---------------- | ---------------------------------------------------- |
-| Ticker           | IZA                                                  |
-| Contract address | TBA                                                  |
-| Blockchain       | Aurora                                               |
-| Emission rate    | 0.05 IZA/block at launch (with adjustable emissions) |
+|                  |                                                        |
+| ---------------- | ------------------------------------------------------ |
+| Ticker           | IZA                                                    |
+| Contract address | TBA                                                    |
+| Blockchain       | Aurora                                                 |
+| Emission rate    | 0.025 IZA/second at launch (with adjustable emissions) |
 
 ![IZANAGI token](<../.gitbook/assets/Izanagi light blue - transparent (2).png>)
 
@@ -39,26 +39,26 @@ The schedule below is just an indication and even though we want to adhere to it
 
 | Week # | IZA/Block |
 | :----: | :-------: |
-|    1   |    0.05   |
-|    2   |    0.05   |
-|    3   |    0.05   |
-|    4   |    0.05   |
-|    5   |    0.04   |
-|    6   |    0.04   |
-|    7   |    0.04   |
-|    8   |    0.04   |
-|    9   |    0.03   |
-|   10   |    0.03   |
-|   11   |    0.03   |
-|   12   |    0.03   |
-|   13   |   0.025   |
-|   14   |   0.025   |
-|   15   |   0.025   |
-|   16   |   0.025   |
-|   17   |   0.023   |
-|   18   |   0.023   |
-|   19   |   0.023   |
-|   20   |   0.023   |
+|    1   |   0.025   |
+|    2   |   0.025   |
+|    3   |   0.025   |
+|    4   |   0.025   |
+|    5   |    0.02   |
+|    6   |    0.02   |
+|    7   |    0.02   |
+|    8   |    0.02   |
+|    9   |   0.015   |
+|   10   |   0.015   |
+|   11   |   0.015   |
+|   12   |   0.015   |
+|   13   |   0.0125  |
+|   14   |   0.0125  |
+|   15   |   0.0125  |
+|   16   |   0.0125  |
+|   17   |   0.012   |
+|   18   |   0.012   |
+|   19   |   0.012   |
+|   20   |   0.012   |
 
 ### Team & marketing allocation
 
