@@ -11,11 +11,35 @@ The first step to interacting with the Amaterasu protocol is to set up the Auror
 
 1. Click on "Pool"
 2. Click on "Create pair"
-3. Select the tokens you want to pair
-4. Approve the spending and confirm the transaction
-5. Go to "Stake"
-6. Choose the pool you want to join and read the information regarding the pools (fees, APRs, etc.)
-7. Choose the amount of LP tokens you want to stake and confirm
+
+![](<../.gitbook/assets/image (4).png>)
+
+3\. Select the tokens you want to pair
+
+4\. Approve the spending and confirm the transaction
+
+![](<../.gitbook/assets/image (2).png>)
+
+5\. Go to "Farm"
+
+6\. Choose the pool you want to join and read the information regarding the pools (fees, APRs, etc.)
+
+![](<../.gitbook/assets/image (5).png>)
+
+7\. Choose the amount of LP tokens you want to stake and confirm the transaction
+
+![](<../.gitbook/assets/image (3).png>)
 
 ### Unstaking and breaking liquidity on Amaterasu
 
+1. Unstake your LP tokens from the pool you just staked in
+2. Go back to "Pool"
+3. Select the LP tokens you want to break (if they don't show up, import them by selecting the pair you have again)
+4. Click on "Approve" and then "Remove" and select the amount you want to break from the tokens
+5. Your tokens should now be back in your wallet!
+
+![](<../.gitbook/assets/image (1).png>)
+
+{% hint style="danger" %}
+Remember to always check the Aurora scan if you have doubts about certain transactions or something seems to be wrong. By looking at the blockchain transactions you can get a better overview of the transcations you executed.
+{% endhint %}

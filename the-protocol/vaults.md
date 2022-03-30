@@ -13,7 +13,7 @@ To maximize your gains, you need to be compounding all the rewards you get from 
 * APR = Simple interest
 * APY = Compound&#x20;
 
-![Compounded interest](<../.gitbook/assets/image (1).png>)
+![Compounded interest](<../.gitbook/assets/image (1) (1).png>)
 
 #### 2) Auto-compounding vaults
 
