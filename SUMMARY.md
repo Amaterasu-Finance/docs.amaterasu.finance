@@ -18,6 +18,7 @@
 
 ## Help
 
+* [☀ Amaterasu guide](help/amaterasu-guide.md)
 * [🦊 Metamask & Aurora](help/metamask-and-aurora.md)
 * [🌉 Bridge](help/bridge.md)
 * [📱 Socials](the-protocol/socials.md)
