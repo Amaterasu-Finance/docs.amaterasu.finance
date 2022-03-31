@@ -1,6 +1,7 @@
 # 📜 Contracts
 
-* $IZA Contract address:
-* Masterchef contract address:
-* Factory:
-* Router:
+* $IZA Contract address: 0x0017Be3E7e36ABF49FE67a78D08bf465bB755120
+* $xIZA Contract address: 0x00a761b10B4Ff8Fc205E685484a1da60451857e1
+* Masterchef contract address: 0xAE20c9F0c4a7E0098D322F690DFea6534E105614
+* Factory: 0x34696b6cE48051048f07f4cAfa39e3381242c3eD
+* Router: 0x3d99B2F578d94f61adcD899DE55F2991522cefE1
