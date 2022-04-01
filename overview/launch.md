@@ -1,11 +1,9 @@
 # 🚀 Launch
 
-**The launch of Amaterasu will take place on the 31st of March at 5PM EST.**
+**The launch of Amaterasu has taken place on the 31st of March at 5PM EST.**
 
-For the launch of the $IZA token, we will mint some IZA tokens and we will pair them with liquidity from the team's pockets. We will be pairing 12k USD with AURORA at launch. This liquidity will be multisigged and the multisig wallet + tx will be made public.
+For the launch of the $IZA token, we have minted some IZA tokens and we have paired them with liquidity from the team's pockets. We paired 12k USD worth of AURORA with IZA at launch. This liquidity is multisigged and the multisig wallet can be found here.
 
-The initial price of $IZA will be around 0.20$.
+The initial price of $IZA was around 0.20$.
 
-Farming will start 30 minutes after the pairing of liquidity.
-
-The vaults will be launched soon after the start of the farming.
+Farming has started 30 minutes after the pairing of liquidity.
