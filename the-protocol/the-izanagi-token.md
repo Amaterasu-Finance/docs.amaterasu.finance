@@ -15,9 +15,11 @@ Necessary information regarding the token:
 
 ### Tracking information
 
-You can track the IZA token in the following places:
+You can track the IZA token and the farms for it in the following places:
 
-* TBA
+* [DEXScreener](https://dexscreener.com/aurora/0x9d83d87aa9f7f8176c3e1b710537a154d5f92545)
+* ApeBoard (coming soon)
+* VFAT (coming soon)
 
 ### Tokenomics
 
