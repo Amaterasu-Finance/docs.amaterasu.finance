@@ -14,8 +14,8 @@
 * [🔐 Vaults](the-protocol/vaults.md)
 * [📜 Contracts](the-protocol/contracts.md)
 * [🤝 The team](the-protocol/the-team.md)
-* [🏛 Protocol history](the-protocol/protocol-history.md)
 * [🔐 Multisig](the-protocol/multisig.md)
+* [🏛 Protocol history](the-protocol/protocol-history.md)
 
 ## Help
 
