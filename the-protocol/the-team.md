@@ -9,4 +9,3 @@ The team behind Amaterasu Finance consists of a diversified group of people:
 * Le Goat - CMO, [Gamefi Crossing team](https://freyala.com), [Tranquil Finance](https://www.tranquil.finance) team
 * Flu - Marketing, [Granary Finance](https://discord.gg/EDgNsdMrDv) founder (Harmony blockchain)
 * Kurt Hokage - [Tranquil Finance](https://www.tranquil.finance) team (Harmony blockchain)
-* MightyM - Ragnarök advisor (Avalanche blockchain), Defimons advisor (Harmony blockchain)
