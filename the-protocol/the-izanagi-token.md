@@ -39,28 +39,9 @@ Please note that we will potentially increase emissions at certain points in tim
 The schedule below is just an indication and even though we want to adhere to it 100%, we also want to retain the right to adjust emissions down/up and deviate from the schedule if necessary.
 {% endhint %}
 
-| Week # | IZA/Block |
-| :----: | :-------: |
-|    1   |   0.025   |
-|    2   |   0.025   |
-|    3   |   0.025   |
-|    4   |   0.025   |
-|    5   |    0.02   |
-|    6   |    0.02   |
-|    7   |    0.02   |
-|    8   |    0.02   |
-|    9   |   0.015   |
-|   10   |   0.015   |
-|   11   |   0.015   |
-|   12   |   0.015   |
-|   13   |   0.0125  |
-|   14   |   0.0125  |
-|   15   |   0.0125  |
-|   16   |   0.0125  |
-|   17   |   0.012   |
-|   18   |   0.012   |
-|   19   |   0.012   |
-|   20   |   0.012   |
+
+
+![](<../.gitbook/assets/image (2).png>)
 
 ### Team & marketing allocation
 
