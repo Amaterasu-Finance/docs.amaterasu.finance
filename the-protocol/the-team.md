@@ -1,6 +1,6 @@
 # 🤝 The team
 
-The team behind Amaterasu Finance consists of a diversified group of people:
+### The team behind Amaterasu Finance consists of a diversified group of people:
 
 * Daug - CEO of Amaterasu Finance, [Gamefi Crossing team](https://freyala.com) (Harmony blockchain)
 * Cryptina - Lead dev, co-founder of [FarmersOnly/Foxswap](https://www.foxswap.one/#/swap) (Harmony blockchain)
@@ -10,3 +10,21 @@ The team behind Amaterasu Finance consists of a diversified group of people:
 * Flu - Marketing, [Granary Finance](https://discord.gg/EDgNsdMrDv) founder (Harmony blockchain)
 * Kurt Hokage - [Tranquil Finance](https://www.tranquil.finance) team (Harmony blockchain)
 * SirRugLessOnAverage - Community Manager
+
+### Team wallets:
+
+**Daug** 0x57F181241383191539a1834730264dD02C9c80aD&#x20;
+
+**Le Goat** 0xAb8F042d3b1D7b45aB6218d89758F82FCE3Eb0df&#x20;
+
+**Flu** 0x720BA4FBbdDb0A5281B4bb509905C03074E0386B&#x20;
+
+**Kurt Hokage** 0x8bb8FC2aE445630485394929aECf09386cF68389&#x20;
+
+**0xgainz** 0x56A7c0fe760F23747B0ffC06fa5824418Bb16Bfa&#x20;
+
+**Cryptina** 0xB989B490F9899a5AD56a4255A3C84457040B59dc
+
+**Peechz** 0xB989B490F9899a5AD56a4255A3C84457040B59dc&#x20;
+
+**Marketing Wallet** 0x06fB8305ebD40D8c75825Ee484BEf312172a0D7F
