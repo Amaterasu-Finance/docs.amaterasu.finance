@@ -38,4 +38,16 @@ In some countries (like the US), every transaction is considered a taxable event
 
 ### Vault fees:
 
-**TBA**
+Fees:
+
+0.0% - Zapping fee
+
+0.0% - Deposit fee
+
+0.1% - Withdraw fee
+
+Fees on rewards:
+
+1.0% - Automation Fee to pay for compounding
+
+3.0% - IZA buy + burn for all non-native vaults
