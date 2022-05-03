@@ -18,7 +18,7 @@ The first step to interacting with the Amaterasu protocol is to set up the Auror
 
 4\. Approve the spending and confirm the transaction
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
 5\. Go to "Farm"
 

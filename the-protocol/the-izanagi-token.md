@@ -41,7 +41,7 @@ The schedule below is just an indication and even though we want to adhere to it
 
 
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 ### Team & marketing allocation
 

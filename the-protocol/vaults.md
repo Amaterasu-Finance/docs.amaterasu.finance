@@ -4,7 +4,7 @@ Amaterasu Finance will offer the first auto-compounding vaults on the Aurora blo
 
 The vaults are modelled after Polycat and they are also fully functional on [FarmersOnly](https://app.farmersonly.fi/vaults) (on Harmony blockchain)
 
-![](../.gitbook/assets/image.png)
+![Amaterasu vaults](<../.gitbook/assets/image (7).png>)
 
 ### Vault Benefits
 
