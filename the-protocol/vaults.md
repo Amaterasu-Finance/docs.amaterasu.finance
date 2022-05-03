@@ -36,6 +36,10 @@ This is quite tedious and time-consuming. The Amaterasu vaults do all of this fo
 
 In some countries (like the US), every transaction is considered a taxable event. This is quite bad for yield farmers especially if you want to compound. However, with vaults, all you need to do is account for depositing and withdrawing. This is a huge bonus for tax accounting for DeFi protocols.
 
+{% hint style="warning" %}
+You might think that the rewards are lower for vaults but that is not true. They seem lower because half of the rewards get compounded back into LP tokens and the rewards in xIZA might seem less because xIZA is worth more than IZA (the ration will continue to increase as people use the protocol)
+{% endhint %}
+
 ### Vault fees:
 
 Fees:
