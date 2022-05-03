@@ -38,7 +38,7 @@ The first step to interacting with the Amaterasu protocol is to set up the Auror
 4. Click on "Approve" and then "Remove" and select the amount you want to break from the tokens
 5. Your tokens should now be back in your wallet!
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 {% hint style="danger" %}
 Remember to always check the Aurora scan if you have doubts about certain transactions or something seems to be wrong. By looking at the blockchain transactions you can get a better overview of the transcations you executed.
