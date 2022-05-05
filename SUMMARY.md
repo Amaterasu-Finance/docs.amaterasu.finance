@@ -12,6 +12,7 @@
 * [🪙 The xIZANAGI token](the-protocol/the-xizanagi-token.md)
 * [🚜 Farming](the-protocol/farming.md)
 * [🔐 Vaults](the-protocol/vaults.md)
+* [⚡ Zapper](the-protocol/zapper.md)
 * [📜 Contracts](the-protocol/contracts.md)
 * [🤝 The team](the-protocol/the-team.md)
 * [🔐 Multisig](the-protocol/multisig.md)
