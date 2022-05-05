@@ -1,6 +1,6 @@
 # ⚡ Zapper
 
-The Zapper is a really neat feature that allows users to enter directly into a pool/vault by insta splitting their tokens in half and creating an LP.
+The Zapper is a really neat feature that allows users to enter directly into a pool/vault by insta splitting their tokens in half and creating LP tokens.
 
 Essentially, it cuts a few steps for you when you want to go into a pool/vault!
 
