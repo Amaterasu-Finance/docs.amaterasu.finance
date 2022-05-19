@@ -1,6 +1,6 @@
 # 🔐 Vaults
 
-Amaterasu Finance will offer the first auto-compounding vaults on the Aurora blockchain.
+Amaterasu Finance is proud to offer the first auto-compounding vaults on the Aurora blockchain.
 
 The vaults are modelled after Polycat and they are also fully functional on [FarmersOnly](https://app.farmersonly.fi/vaults) (on Harmony blockchain)
 
@@ -13,7 +13,7 @@ The vaults are modelled after Polycat and they are also fully functional on [Far
 To maximize your gains, you need to be compounding all the rewards you get from farming back into the farm. Below you can find an example of compounding over the period of a year
 
 * APR = Simple interest
-* APY = Compound&#x20;
+* APY = Compound
 
 ![Compounded interest](<../.gitbook/assets/image (1) (1) (1).png>)
 
