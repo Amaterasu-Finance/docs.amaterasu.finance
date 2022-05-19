@@ -7,7 +7,7 @@ Necessary information regarding the token:
 |                  |                                                        |
 | ---------------- | ------------------------------------------------------ |
 | Ticker           | IZA                                                    |
-| Contract address | TBA                                                    |
+| Contract address | 0x0017Be3E7e36ABF49FE67a78D08bf465bB755120             |
 | Blockchain       | Aurora                                                 |
 | Emission rate    | 0.025 IZA/second at launch (with adjustable emissions) |
 
@@ -38,8 +38,6 @@ Please note that we will potentially increase emissions at certain points in tim
 {% hint style="danger" %}
 The schedule below is just an indication and even though we want to adhere to it 100%, we also want to retain the right to adjust emissions down/up and deviate from the schedule if necessary.
 {% endhint %}
-
-
 
 ![](<../.gitbook/assets/image (2) (1).png>)
 
